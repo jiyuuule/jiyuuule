@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on God
 - 📫 How to reach me Heaven
 - 😄 Pronouns: -
-- ⚡ Fun fact: nobody knows I'm serial killer
+- ⚡ Fun fact: nobody knows I'm serial killer 
 
 <!---
 jiyuuule/jiyuuule is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
