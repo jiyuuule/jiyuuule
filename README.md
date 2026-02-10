@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @jiyuuule
-- 👀 I’m interested in God
-- 🌱 I’m currently learning God
-- 💞️ I’m looking to collaborate on God
-- 📫 How to reach me Heaven
-- 😄 Pronouns: -
-- ⚡ Fun fact: nobody knows I'm serial killer 
+- 👀 I’m interested in cybersecurity
+- 🌱 I’m currently learning cybersecurity
+- 💞️ I’m looking to collaborate on ()
+- 📫 How to reach me ()
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: nobody knows I'm a serial killer 
 
 <!---
 jiyuuule/jiyuuule is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
